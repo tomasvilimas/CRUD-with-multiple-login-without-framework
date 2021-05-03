@@ -10,11 +10,11 @@ Import two files into workbench : sp2_accounts.sql ; sp2_goods.sql<br />
 you should use XAMPP or AMPPS. <br />
 Open folder with VSC or some other program<br />
 Open links in localhost:<br />
-user link  http://localhost/pokalbis/  <br />
+user link  http://localhost/CRUD-with-multiple-login-without-framework-master <br />
 login name: test<br />
 pasword: test<br />
 
-Admin link http://localhost/pokalbis/admin-login.html  <br />
+Admin link http://localhost/CRUD-with-multiple-login-without-framework-master/admin-login.html  <br />
 Login name: Admin<br />
 pasword: test<br />
 
